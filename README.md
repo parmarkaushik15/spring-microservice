@@ -1,7 +1,7 @@
 # Spring Microservice
 
-I. Technologies
-– Java 1.8
+I. Technologies \n
+– Java 1.8 \n
 – Maven 3.3.9
 – Spring Tool Suite – Version 3.8.1.RELEASE
 – Spring Boot: 1.5.1.RELEASE
